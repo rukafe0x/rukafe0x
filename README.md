@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Juan and these are my Blockchain contributions:
 
 ## Personal Projects :mountain: ##
--	Starknet Sport Pool: A a mobile phone sports prediction app where you, your friends and family will have a lot of fun betting in funny and personal sports leagues.
+-	Starknet Sport Pool (under construction): A mobile phone sports prediction app where you, your friends and family will have a lot of fun betting in funny and personal sports leagues.
   
 ## Hackathons :trophy: ##``
 - HackerEarth'20: A Python automated credit risk score (Python). 
