@@ -4,12 +4,18 @@
 -	Starknet Sport Pool (under construction): A mobile phone sports prediction app where you, your friends and family will have a lot of fun betting in funny and personal sports leagues.
   
 ## Hackathons :trophy: ##
-- HackerEarth'20: A Python automated credit risk score (Python). 
-- Starknet Hacker House San Francisco'23 : 5th place with Starknet Homepage (and NFT ads minter) (NextJS, Cairo).
-- Starknet Re{ignite}'25: With Starknet Sports Pool (Dart, Cairo).
+- HackerEarth'20 (on site): A Python automated credit risk score (Python). 
+- Starknet Hacker House San Francisco'23 (on site): 5th place with Starknet Homepage (and NFT ads minter) (NextJS, Cairo).
+- Starknet Re{ignite}'25 (remote): With Starknet Sports Pool (Dart, Cairo).
 
-## Hackathons :muscle: ##
+## Internships and Training Attendance:muscle: ##
 - Nethermind Internship (3 months)
+- Advanced Cairo and ZK Proofs (@extropy)
+-	Advanced Solidity: Yul and Assembly 
+-	Ethereum Solidity Course
+-	Mining Rig Building
+-	Crypto Trading
+- Blockchain University Diplomate
 
 ## Main Contributions :construction_worker: ##
 - Damn Vulnerable Defi with Foundry (Writeup).
@@ -49,14 +55,6 @@
 -	Defi Programming Introduction 
 -	Smart Contracts Hacking Introduction
 -	Blockchain Programming Introduction 
-
-## Training Attendance 🎓 ##
-- Advanced Cairo and ZK Proofs (@extropy)
--	Advanced Solidity: Yul and Assembly 
--	Ethereum Solidity Course
--	Mining Rig Building
--	Crypto Trading
-- Blockchain University Diplomate
 
 <!--
 **rukafe0x/rukafe0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
