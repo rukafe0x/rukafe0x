@@ -8,7 +8,7 @@
 - Starknet Hacker House San Francisco'23 (on site): 5th place with Starknet Homepage (and NFT ads minter) (NextJS, Cairo).
 - Starknet Re{ignite}'25 (remote): With Starknet Sports Pool (Dart, Cairo).
 
-## Internships and Training Attendance:muscle: ##
+## Internships and Training Attendance :muscle: ##
 - Nethermind Internship (3 months)
 - Advanced Cairo and ZK Proofs (@extropy)
 -	Advanced Solidity: Yul and Assembly 
