@@ -3,11 +3,14 @@
 ## Personal Projects :mountain: ##
 -	Starknet Sport Pool (under construction): A mobile phone sports prediction app where you, your friends and family will have a lot of fun betting in funny and personal sports leagues.
   
-## Hackathons :trophy: ##``
+## Hackathons :trophy: ##
 - HackerEarth'20: A Python automated credit risk score (Python). 
 - Starknet Hacker House San Francisco'23 : 5th place with Starknet Homepage (and NFT ads minter) (NextJS, Cairo).
 - Starknet Re{ignite}'25: With Starknet Sports Pool (Dart, Cairo).
-  
+
+## Hackathons :muscle: ##
+- Nethermind Internship (3 months)
+
 ## Main Contributions :construction_worker: ##
 - Damn Vulnerable Defi with Foundry (Writeup).
 - Secureum A-Maze-X Defi CTF (Writeup).
